@@ -19,8 +19,7 @@ For any queries regarding about this project contact me
 
 Link : https://www.linkedin.com/in/anil-l-b023631b6/
 
-## Demo
-Project output demo Link: [https://mrs-campusx.herokuapp.com]
+
 
 ## Overview
 Recommendation Engine created as an AI module integrated with mobile app to recommend movies with help of content, Developed these POC for to get experience real time projects and Created API using Streamlit Framework and Deployed to the Heroku Cloud platform
