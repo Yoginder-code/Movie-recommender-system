@@ -13,11 +13,7 @@ A content based movie recommender system using cosine similarity
   * Installation and Run 
   * Database Link
   * Future scope of the project
- 
-## Linkdin Profile
-For any queries regarding about this project contact me
 
-Link : https://www.linkedin.com/in/anil-l-b023631b6/
 
 
 
